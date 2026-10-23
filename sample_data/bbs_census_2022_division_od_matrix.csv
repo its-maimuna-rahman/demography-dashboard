@@ -1,0 +1,15 @@
+origin,destination,migrants
+Chattogram,Dhaka,185.0
+Rajshahi,Dhaka,120.0
+Khulna,Dhaka,110.0
+Barishal,Dhaka,140.0
+Mymensingh,Dhaka,95.0
+Rangpur,Dhaka,130.0
+Sylhet,Dhaka,60.0
+Dhaka,Chattogram,45.0
+Dhaka,Sylhet,25.0
+Rajshahi,Rangpur,30.0
+Khulna,Barishal,22.0
+Barishal,Chattogram,35.0
+Sylhet,Chattogram,20.0
+Mymensingh,Sylhet,18.0

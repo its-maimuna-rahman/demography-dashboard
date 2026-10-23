@@ -1,0 +1,842 @@
+{
+  "name": "Historical Dirty Census (High Heaping / Gaps)",
+  "year": 1981,
+  "region": "National",
+  "area_km2": 147570.0,
+  "total_population": 87120000,
+  "male_population": 44512222,
+  "female_population": 42607778,
+  "pop_0_14": 26136000,
+  "pop_15_64": 54450000,
+  "pop_65_plus": 6534000,
+  "total_live_births": 3299223,
+  "male_births": 1689845,
+  "female_births": 1609378,
+  "marital_births": 3187035,
+  "married_women_15_49": 15101819,
+  "total_women_15_49": 21572654,
+  "total_deaths": 1672616,
+  "male_deaths": 903213,
+  "female_deaths": 769403,
+  "neonatal_deaths": 73503,
+  "early_neonatal_deaths": 55127,
+  "post_neonatal_deaths": 45050,
+  "infant_deaths": 118553,
+  "child_deaths_1_4": 46104,
+  "pop_1_4": 7318080,
+  "maternal_deaths": 5279,
+  "census_coverage_rate": 0.925,
+  "pec_omission_rate": 0.075,
+  "pec_completeness_rate": 0.925,
+  "death_registration_completeness": 0.65,
+  "marriages_total": 653400,
+  "divorces_total": 104544,
+  "single_year_ages": [
+    {
+      "age": 0,
+      "male": 974552,
+      "female": 928870,
+      "total": 1903422
+    },
+    {
+      "age": 1,
+      "male": 955255,
+      "female": 910477,
+      "total": 1865732
+    },
+    {
+      "age": 2,
+      "male": 936340,
+      "female": 892449,
+      "total": 1828789
+    },
+    {
+      "age": 3,
+      "male": 917799,
+      "female": 874777,
+      "total": 1792576
+    },
+    {
+      "age": 4,
+      "male": 899625,
+      "female": 857456,
+      "total": 1757081
+    },
+    {
+      "age": 5,
+      "male": 928145,
+      "female": 884638,
+      "total": 1812783
+    },
+    {
+      "age": 6,
+      "male": 909767,
+      "female": 867121,
+      "total": 1776888
+    },
+    {
+      "age": 7,
+      "male": 891752,
+      "female": 849951,
+      "total": 1741703
+    },
+    {
+      "age": 8,
+      "male": 874094,
+      "female": 833121,
+      "total": 1707215
+    },
+    {
+      "age": 9,
+      "male": 856786,
+      "female": 816625,
+      "total": 1673411
+    },
+    {
+      "age": 10,
+      "male": 881738,
+      "female": 840406,
+      "total": 1722144
+    },
+    {
+      "age": 11,
+      "male": 864278,
+      "female": 823765,
+      "total": 1688043
+    },
+    {
+      "age": 12,
+      "male": 847164,
+      "female": 807454,
+      "total": 1654618
+    },
+    {
+      "age": 13,
+      "male": 830390,
+      "female": 791465,
+      "total": 1621855
+    },
+    {
+      "age": 14,
+      "male": 813947,
+      "female": 775793,
+      "total": 1589740
+    },
+    {
+      "age": 15,
+      "male": 835331,
+      "female": 796174,
+      "total": 1631505
+    },
+    {
+      "age": 16,
+      "male": 818790,
+      "female": 780409,
+      "total": 1599199
+    },
+    {
+      "age": 17,
+      "male": 802577,
+      "female": 764956,
+      "total": 1567533
+    },
+    {
+      "age": 18,
+      "male": 786685,
+      "female": 749809,
+      "total": 1536494
+    },
+    {
+      "age": 19,
+      "male": 771107,
+      "female": 734962,
+      "total": 1506069
+    },
+    {
+      "age": 20,
+      "male": 2221928,
+      "female": 2167228,
+      "total": 4389156
+    },
+    {
+      "age": 21,
+      "male": 777833,
+      "female": 732522,
+      "total": 1510355
+    },
+    {
+      "age": 22,
+      "male": 762431,
+      "female": 718017,
+      "total": 1480448
+    },
+    {
+      "age": 23,
+      "male": 747333,
+      "female": 703799,
+      "total": 1451132
+    },
+    {
+      "age": 24,
+      "male": 732535,
+      "female": 689864,
+      "total": 1422399
+    },
+    {
+      "age": 25,
+      "male": 2091227,
+      "female": 2039744,
+      "total": 4130971
+    },
+    {
+      "age": 26,
+      "male": 732078,
+      "female": 689433,
+      "total": 1421511
+    },
+    {
+      "age": 27,
+      "male": 717582,
+      "female": 675781,
+      "total": 1393363
+    },
+    {
+      "age": 28,
+      "male": 703373,
+      "female": 662399,
+      "total": 1365772
+    },
+    {
+      "age": 29,
+      "male": 689444,
+      "female": 649283,
+      "total": 1338727
+    },
+    {
+      "age": 30,
+      "male": 1960526,
+      "female": 1912260,
+      "total": 3872786
+    },
+    {
+      "age": 31,
+      "male": 686323,
+      "female": 646343,
+      "total": 1332666
+    },
+    {
+      "age": 32,
+      "male": 672733,
+      "female": 633545,
+      "total": 1306278
+    },
+    {
+      "age": 33,
+      "male": 659412,
+      "female": 621000,
+      "total": 1280412
+    },
+    {
+      "age": 34,
+      "male": 646354,
+      "female": 608702,
+      "total": 1255056
+    },
+    {
+      "age": 35,
+      "male": 1777543,
+      "female": 1733782,
+      "total": 3511325
+    },
+    {
+      "age": 36,
+      "male": 622266,
+      "female": 586018,
+      "total": 1208284
+    },
+    {
+      "age": 37,
+      "male": 609944,
+      "female": 574414,
+      "total": 1184358
+    },
+    {
+      "age": 38,
+      "male": 597867,
+      "female": 563040,
+      "total": 1160907
+    },
+    {
+      "age": 39,
+      "male": 586028,
+      "female": 551890,
+      "total": 1137918
+    },
+    {
+      "age": 40,
+      "male": 1568420,
+      "female": 1529808,
+      "total": 3098228
+    },
+    {
+      "age": 41,
+      "male": 549058,
+      "female": 517074,
+      "total": 1066132
+    },
+    {
+      "age": 42,
+      "male": 538186,
+      "female": 506836,
+      "total": 1045022
+    },
+    {
+      "age": 43,
+      "male": 527529,
+      "female": 496800,
+      "total": 1024329
+    },
+    {
+      "age": 44,
+      "male": 517085,
+      "female": 486962,
+      "total": 1004047
+    },
+    {
+      "age": 45,
+      "male": 1359299,
+      "female": 1325833,
+      "total": 2685132
+    },
+    {
+      "age": 46,
+      "male": 475851,
+      "female": 448131,
+      "total": 923982
+    },
+    {
+      "age": 47,
+      "male": 466428,
+      "female": 439257,
+      "total": 905685
+    },
+    {
+      "age": 48,
+      "male": 457192,
+      "female": 430560,
+      "total": 887752
+    },
+    {
+      "age": 49,
+      "male": 448139,
+      "female": 422034,
+      "total": 870173
+    },
+    {
+      "age": 50,
+      "male": 1176316,
+      "female": 1147356,
+      "total": 2323672
+    },
+    {
+      "age": 51,
+      "male": 411794,
+      "female": 387806,
+      "total": 799600
+    },
+    {
+      "age": 52,
+      "male": 403640,
+      "female": 380127,
+      "total": 783767
+    },
+    {
+      "age": 53,
+      "male": 395647,
+      "female": 372600,
+      "total": 768247
+    },
+    {
+      "age": 54,
+      "male": 387812,
+      "female": 365221,
+      "total": 753033
+    },
+    {
+      "age": 55,
+      "male": 993333,
+      "female": 968878,
+      "total": 1962211
+    },
+    {
+      "age": 56,
+      "male": 347737,
+      "female": 327481,
+      "total": 675218
+    },
+    {
+      "age": 57,
+      "male": 340851,
+      "female": 320996,
+      "total": 661847
+    },
+    {
+      "age": 58,
+      "male": 334102,
+      "female": 314640,
+      "total": 648742
+    },
+    {
+      "age": 59,
+      "male": 327486,
+      "female": 308409,
+      "total": 635895
+    },
+    {
+      "age": 60,
+      "male": 820248,
+      "female": 832720,
+      "total": 1652968
+    },
+    {
+      "age": 61,
+      "male": 287145,
+      "female": 281459,
+      "total": 568604
+    },
+    {
+      "age": 62,
+      "male": 281459,
+      "female": 275886,
+      "total": 557345
+    },
+    {
+      "age": 63,
+      "male": 275886,
+      "female": 270423,
+      "total": 546309
+    },
+    {
+      "age": 64,
+      "male": 270423,
+      "female": 265068,
+      "total": 535491
+    },
+    {
+      "age": 65,
+      "male": 628129,
+      "female": 663705,
+      "total": 1291834
+    },
+    {
+      "age": 66,
+      "male": 219890,
+      "female": 224332,
+      "total": 444222
+    },
+    {
+      "age": 67,
+      "male": 215536,
+      "female": 219890,
+      "total": 435426
+    },
+    {
+      "age": 68,
+      "male": 211268,
+      "female": 215536,
+      "total": 426804
+    },
+    {
+      "age": 69,
+      "male": 207084,
+      "female": 211268,
+      "total": 418352
+    },
+    {
+      "age": 70,
+      "male": 443116,
+      "female": 487330,
+      "total": 930446
+    },
+    {
+      "age": 71,
+      "male": 155122,
+      "female": 164717,
+      "total": 319839
+    },
+    {
+      "age": 72,
+      "male": 152051,
+      "female": 161456,
+      "total": 313507
+    },
+    {
+      "age": 73,
+      "male": 149040,
+      "female": 158259,
+      "total": 307299
+    },
+    {
+      "age": 74,
+      "male": 146089,
+      "female": 155125,
+      "total": 301214
+    },
+    {
+      "age": 75,
+      "male": 337540,
+      "female": 386396,
+      "total": 723936
+    },
+    {
+      "age": 76,
+      "male": 118163,
+      "female": 130601,
+      "total": 248764
+    },
+    {
+      "age": 77,
+      "male": 115823,
+      "female": 128015,
+      "total": 243838
+    },
+    {
+      "age": 78,
+      "male": 113530,
+      "female": 125480,
+      "total": 239010
+    },
+    {
+      "age": 79,
+      "male": 111282,
+      "female": 122996,
+      "total": 234278
+    },
+    {
+      "age": 80,
+      "male": 84294,
+      "female": 96984,
+      "total": 181278
+    },
+    {
+      "age": 81,
+      "male": 82625,
+      "female": 95064,
+      "total": 177689
+    },
+    {
+      "age": 82,
+      "male": 80989,
+      "female": 93181,
+      "total": 174170
+    },
+    {
+      "age": 83,
+      "male": 79386,
+      "female": 91336,
+      "total": 170722
+    },
+    {
+      "age": 84,
+      "male": 77814,
+      "female": 89527,
+      "total": 167341
+    },
+    {
+      "age": 85,
+      "male": 90293,
+      "female": 108153,
+      "total": 198446
+    },
+    {
+      "age": 86,
+      "male": 70320,
+      "female": 84230,
+      "total": 154550
+    },
+    {
+      "age": 87,
+      "male": 54766,
+      "female": 65598,
+      "total": 120364
+    },
+    {
+      "age": 88,
+      "male": 42651,
+      "female": 51088,
+      "total": 93739
+    },
+    {
+      "age": 89,
+      "male": 33217,
+      "female": 39787,
+      "total": 73004
+    },
+    {
+      "age": 90,
+      "male": 25870,
+      "female": 30987,
+      "total": 56857
+    }
+  ],
+  "age_group_5yr": [
+    {
+      "age_group": "0-4",
+      "male": 4683571,
+      "female": 4464029,
+      "total": 9147600
+    },
+    {
+      "age_group": "5-9",
+      "male": 4460544,
+      "female": 4251456,
+      "total": 8712000
+    },
+    {
+      "age_group": "10-14",
+      "male": 4237517,
+      "female": 4038883,
+      "total": 8276400
+    },
+    {
+      "age_group": "15-19",
+      "male": 4014490,
+      "female": 3826310,
+      "total": 7840800
+    },
+    {
+      "age_group": "20-24",
+      "male": 3813678,
+      "female": 3591522,
+      "total": 7405200
+    },
+    {
+      "age_group": "25-29",
+      "male": 3589344,
+      "female": 3380256,
+      "total": 6969600
+    },
+    {
+      "age_group": "30-34",
+      "male": 3365010,
+      "female": 3168990,
+      "total": 6534000
+    },
+    {
+      "age_group": "35-39",
+      "male": 3050942,
+      "female": 2873218,
+      "total": 5924160
+    },
+    {
+      "age_group": "40-44",
+      "male": 2692008,
+      "female": 2535192,
+      "total": 5227200
+    },
+    {
+      "age_group": "45-49",
+      "male": 2333074,
+      "female": 2197166,
+      "total": 4530240
+    },
+    {
+      "age_group": "50-54",
+      "male": 2019006,
+      "female": 1901394,
+      "total": 3920400
+    },
+    {
+      "age_group": "55-59",
+      "male": 1704938,
+      "female": 1605622,
+      "total": 3310560
+    },
+    {
+      "age_group": "60-64",
+      "male": 1407859,
+      "female": 1379981,
+      "total": 2787840
+    },
+    {
+      "age_group": "65-69",
+      "male": 1078110,
+      "female": 1099890,
+      "total": 2178000
+    },
+    {
+      "age_group": "70-74",
+      "male": 760558,
+      "female": 807602,
+      "total": 1568160
+    },
+    {
+      "age_group": "75-79",
+      "male": 579348,
+      "female": 640332,
+      "total": 1219680
+    },
+    {
+      "age_group": "80-84",
+      "male": 405108,
+      "female": 466092,
+      "total": 871200
+    },
+    {
+      "age_group": "85+",
+      "male": 317117,
+      "female": 379843,
+      "total": 696960
+    }
+  ],
+  "fertility_schedule": [
+    {
+      "age_group": "15-19",
+      "female_pop": 3826310,
+      "births": 420894,
+      "female_births": 205314,
+      "married_women": 841788,
+      "marital_births": 387222
+    },
+    {
+      "age_group": "20-24",
+      "female_pop": 3591522,
+      "births": 879923,
+      "female_births": 429231,
+      "married_women": 2334489,
+      "marital_births": 844726
+    },
+    {
+      "age_group": "25-29",
+      "female_pop": 3380256,
+      "births": 777459,
+      "female_births": 379248,
+      "married_women": 2873218,
+      "marital_births": 761910
+    },
+    {
+      "age_group": "30-34",
+      "female_pop": 3168990,
+      "births": 570418,
+      "female_births": 278253,
+      "married_women": 2788711,
+      "marital_births": 559010
+    },
+    {
+      "age_group": "35-39",
+      "female_pop": 2873218,
+      "births": 387884,
+      "female_births": 189212,
+      "married_women": 2470967,
+      "marital_births": 380126
+    },
+    {
+      "age_group": "40-44",
+      "female_pop": 2535192,
+      "births": 190139,
+      "female_births": 92751,
+      "married_women": 2078857,
+      "marital_births": 184435
+    },
+    {
+      "age_group": "45-49",
+      "female_pop": 2197166,
+      "births": 72506,
+      "female_births": 35369,
+      "married_women": 1713789,
+      "marital_births": 69606
+    }
+  ],
+  "mortality_schedule": [
+    {
+      "age_group": "0-4",
+      "population": 9147600,
+      "deaths": 164657
+    },
+    {
+      "age_group": "5-9",
+      "population": 8712000,
+      "deaths": 21780
+    },
+    {
+      "age_group": "10-14",
+      "population": 8276400,
+      "deaths": 14898
+    },
+    {
+      "age_group": "15-19",
+      "population": 7840800,
+      "deaths": 19602
+    },
+    {
+      "age_group": "20-24",
+      "population": 7405200,
+      "deaths": 23697
+    },
+    {
+      "age_group": "25-29",
+      "population": 6969600,
+      "deaths": 26484
+    },
+    {
+      "age_group": "30-34",
+      "population": 6534000,
+      "deaths": 31363
+    },
+    {
+      "age_group": "35-39",
+      "population": 5924160,
+      "deaths": 38507
+    },
+    {
+      "age_group": "40-44",
+      "population": 5227200,
+      "deaths": 49658
+    },
+    {
+      "age_group": "45-49",
+      "population": 4530240,
+      "deaths": 63423
+    },
+    {
+      "age_group": "50-54",
+      "population": 3920400,
+      "deaths": 82328
+    },
+    {
+      "age_group": "55-59",
+      "population": 3310560,
+      "deaths": 105938
+    },
+    {
+      "age_group": "60-64",
+      "population": 2787840,
+      "deaths": 133816
+    },
+    {
+      "age_group": "65-69",
+      "population": 2178000,
+      "deaths": 156816
+    },
+    {
+      "age_group": "70-74",
+      "population": 1568160,
+      "deaths": 164657
+    },
+    {
+      "age_group": "75-79",
+      "population": 1219680,
+      "deaths": 182952
+    },
+    {
+      "age_group": "80-84",
+      "population": 871200,
+      "deaths": 182952
+    },
+    {
+      "age_group": "85+",
+      "population": 696960,
+      "deaths": 209088
+    }
+  ]
+}

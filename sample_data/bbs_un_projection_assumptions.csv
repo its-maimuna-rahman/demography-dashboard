@@ -1,0 +1,8 @@
+indicator,value
+horizon_years,30.0
+base_year,2022.0
+srb,104.9
+net_migration_annual,-250000.0
+tfr_low_variant,1.55
+tfr_med_variant,1.85
+tfr_high_variant,2.15
